@@ -65,42 +65,42 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "45%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "45%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "50%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "",
         "category": "",
         "image": "",
         "url": ""
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "",
         "category": "",
         "image": "",
         "url": ""
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "",
         "category": "",
         "image": "",
         "url": ""
