@@ -88,10 +88,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "",
+        "title": "Netflix Clone",
         "category": "",
-        "image": "",
-        "url": ""
+        "image": "netflix.png",
+        "url": "https://netflix-clone-paul.netlify.app/"
       },
       {
         "title": "",
