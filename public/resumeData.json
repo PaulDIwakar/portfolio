@@ -88,16 +88,16 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Amazon Clone",
+        "category": "",
+        "image": "amazonclone.jpg",
+        "url": "https://amazonpaul.netlify.app/"
+      },
+      {
         "title": "Netflix Clone",
         "category": "",
         "image": "netflix.png",
         "url": "https://netflix-clone-paul.netlify.app/"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
       },
       {
         "title": "",
