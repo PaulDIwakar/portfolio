@@ -65,7 +65,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Python",
@@ -73,15 +73,15 @@
       },
       {
         "name": "Git",
-        "level": "45%"
+        "level": "70%"
       },
       {
         "name": "JavaScript",
-        "level": "50%"
+        "level": "60%"
       },
       {
-        "name": "Web Development",
-        "level": "50%"
+        "name": "NextJS",
+        "level": "60%"
       }
     ]
   },
@@ -103,7 +103,7 @@
         "title": "Metaverse",
         "category": "",
         "image": "metaverse.jpg",
-        "url": "https://metaverse-seven-iota.vercel.app/"
+        "url": "https://metaverse-paul.vercel.app/"
       }
     ]
   },
