@@ -88,6 +88,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Paul Blogs",
+        "category": "",
+        "image": "",
+        "url": "https://paulblog.vercel.app/"
+      },
+      {
         "title": "Amazon Clone",
         "category": "",
         "image": "amazonclone.jpg",
